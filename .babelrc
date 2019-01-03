@@ -1,4 +1,3 @@
 {
-  presets: ["next/babel", "@babel/preset-flow"],
-  plugins: []
+  "presets": ["next/babel", "@zeit/next-typescript/babel"]
 }
