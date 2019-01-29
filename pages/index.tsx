@@ -290,7 +290,7 @@ const Index = () => {
           <div style={paragraphStyle}>
             <img src="/static/bar.jpg" width={500 / 2} height={333 / 2} />
           </div>
-          <RegisterLinkButton date="9. ledna 2019" />
+          <RegisterLinkButton date="11. února 2019" />
           <div style={heading3Style}>
             JavaScript a React pro mírně pokročilé
           </div>
@@ -330,7 +330,7 @@ const Index = () => {
             seznam doporučené literatury a zdrojů (jen to nejnutnější), naučíme
             se jak odchytávat a ladit chyby.
           </div>
-          <RegisterLinkButton date="10. ledna 2019" />
+          <RegisterLinkButton date="12. února 2019" />
           <div style={heading3Style}>JavaScript a React pro pokročilé</div>
           <div style={paragraphStyle}>
             <img
@@ -363,7 +363,7 @@ const Index = () => {
             . A jak sdílet kód na serveru, v prohlížeci, desktopu, či mobilu.
             Nikdo nechce psát validace nebo šablony více než jednou.
           </div>
-          <RegisterLinkButton date="11. ledna 2019" />
+          <RegisterLinkButton date="13. února 2019" />
           <div id="pro-firmy" style={heading2Style}>
             Pro firmy
           </div>
